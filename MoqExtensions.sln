@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqExtensions", "MoqExtensions\MoqExtensions.csproj", "{7ADD05D3-3957-403B-A386-F45DE32B6A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqExtensions.Tests", "MoqExtensions.Tests\MoqExtensions.Tests.csproj", "{2E19F992-A82C-4AEA-9505-68580E591AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADD05D3-3957-403B-A386-F45DE32B6A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADD05D3-3957-403B-A386-F45DE32B6A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADD05D3-3957-403B-A386-F45DE32B6A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADD05D3-3957-403B-A386-F45DE32B6A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E19F992-A82C-4AEA-9505-68580E591AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E19F992-A82C-4AEA-9505-68580E591AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E19F992-A82C-4AEA-9505-68580E591AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E19F992-A82C-4AEA-9505-68580E591AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
